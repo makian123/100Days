@@ -11,19 +11,12 @@ namespace Day005
             Console.Write("Input string: ");
             string line = Console.ReadLine();
 
-            line = Unrepeatable(line);
-
-            Console.WriteLine($"The string is: {line}");
+            Console.WriteLine($"The string is: {Unrepeatable(line)}");
         }
 
         static string Unrepeatable(string line)
         {
-            char[] charLine = new char[line.Length];
-
-            for(int i = 0; i < line.Length; ++i)
-            {
-                charLine[i] = line[i];
-            }
+            char[] charLine = line.ToCharArray();
 
             while(!IsGood(charLine))
             {

@@ -10,3 +10,4 @@ D:\100daysofcode\Day005\Day005\obj\Debug\netcoreapp3.1\Day005.csproj.CoreCompile
 D:\100daysofcode\Day005\Day005\obj\Debug\netcoreapp3.1\Day005.dll
 D:\100daysofcode\Day005\Day005\obj\Debug\netcoreapp3.1\Day005.pdb
 D:\100daysofcode\Day005\Day005\obj\Debug\netcoreapp3.1\Day005.genruntimeconfig.cache
+D:\100daysofcode\Day005\Day005\obj\Debug\netcoreapp3.1\Day005.csprojAssemblyReference.cache

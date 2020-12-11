@@ -12,6 +12,8 @@ namespace Day005
             string line = Console.ReadLine();
 
             Console.WriteLine($"The string is: {Unrepeatable(line)}");
+
+            Console.ReadKey();
         }
 
         static string Unrepeatable(string line)

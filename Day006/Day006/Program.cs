@@ -59,7 +59,7 @@ namespace Day006
             {
                 if (intervals[i].startPos > intervals[i + 1].startPos)
                 {
-                    (intervals[i], intervals[i + 1]) = (intervals[i + 1], intervals[i]);
+                    (intervals[i], intervals[i + 1]) = (intervals[i], intervals[i + 1]);
                 }
             }
 

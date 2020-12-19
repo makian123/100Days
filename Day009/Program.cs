@@ -7,7 +7,7 @@ namespace Day009
     {
         static void Main(string[] args)
         {
-            int[] array = new int[9] { 5, 1, 3, 5, 2, 3, 4, 1 };
+            int[] array = new int[8] { 5, 1, 3, 5, 2, 3, 4, 1 };
             array = largestSubarray(array);
 
             for(int i = 0; i < array.Length; ++i)

@@ -355,6 +355,13 @@ The subsequence does not necessarily have to be contiguous.
 For example, given the array [0, 8, 4, 12, 2, 10, 6, 14, 1, 9, 5, 13, 3, 11, 7, 15], the longest increasing subsequence has length 6: it is 0, 2, 6, 9, 11, 15.
 
 Day 62
+Run-length encoding is a fast and simple method of encoding strings. 
+The basic idea is to represent repeated successive characters as a single count and character. 
+For example, the string "AAAABBBCCDAA" would be encoded as "4A3B2C1D2A".
+Implement run-length encoding and decoding. 
+You can assume the string to be encoded have no digits and consists solely of alphabetic characters. 
+You can assume the string to be decoded is valid.
+
 Day 63
 Day 64
 Day 65

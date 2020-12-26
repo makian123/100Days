@@ -1,0 +1,13 @@
+D:\C# projects\Day067\bin\Debug\netcoreapp3.1\Day067.exe
+D:\C# projects\Day067\bin\Debug\netcoreapp3.1\Day067.deps.json
+D:\C# projects\Day067\bin\Debug\netcoreapp3.1\Day067.runtimeconfig.json
+D:\C# projects\Day067\bin\Debug\netcoreapp3.1\Day067.runtimeconfig.dev.json
+D:\C# projects\Day067\bin\Debug\netcoreapp3.1\Day067.dll
+D:\C# projects\Day067\bin\Debug\netcoreapp3.1\Day067.pdb
+D:\C# projects\Day067\obj\Debug\netcoreapp3.1\Day067.csprojAssemblyReference.cache
+D:\C# projects\Day067\obj\Debug\netcoreapp3.1\Day067.AssemblyInfoInputs.cache
+D:\C# projects\Day067\obj\Debug\netcoreapp3.1\Day067.AssemblyInfo.cs
+D:\C# projects\Day067\obj\Debug\netcoreapp3.1\Day067.csproj.CoreCompileInputs.cache
+D:\C# projects\Day067\obj\Debug\netcoreapp3.1\Day067.dll
+D:\C# projects\Day067\obj\Debug\netcoreapp3.1\Day067.pdb
+D:\C# projects\Day067\obj\Debug\netcoreapp3.1\Day067.genruntimeconfig.cache

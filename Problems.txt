@@ -377,7 +377,13 @@ Given a list of words, find all pairs of unique indices such that the concatenat
 For example, given the list ["code", "edoc", "da", "d"], return [(0, 1), (1, 0), (2, 3)].
 
 Day 66
+Determine whether a doubly linked list is a palindrome. What if it’s singly linked?
+For example, 1 -> 4 -> 3 -> 4 -> 1 returns True while 1 -> 4 returns False.
+
 Day 67
+Implement division of two positive integers without using the division, multiplication, or modulus operators. 
+Return the quotient as an integer, ignoring the remainder.
+
 Day 68
 Day 69
 Day 70

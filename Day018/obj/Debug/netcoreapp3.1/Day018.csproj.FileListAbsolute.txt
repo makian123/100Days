@@ -1,0 +1,13 @@
+D:\100daysofcode\Day018\bin\Debug\netcoreapp3.1\Day018.exe
+D:\100daysofcode\Day018\bin\Debug\netcoreapp3.1\Day018.deps.json
+D:\100daysofcode\Day018\bin\Debug\netcoreapp3.1\Day018.runtimeconfig.json
+D:\100daysofcode\Day018\bin\Debug\netcoreapp3.1\Day018.runtimeconfig.dev.json
+D:\100daysofcode\Day018\bin\Debug\netcoreapp3.1\Day018.dll
+D:\100daysofcode\Day018\bin\Debug\netcoreapp3.1\Day018.pdb
+D:\100daysofcode\Day018\obj\Debug\netcoreapp3.1\Day018.csprojAssemblyReference.cache
+D:\100daysofcode\Day018\obj\Debug\netcoreapp3.1\Day018.AssemblyInfoInputs.cache
+D:\100daysofcode\Day018\obj\Debug\netcoreapp3.1\Day018.AssemblyInfo.cs
+D:\100daysofcode\Day018\obj\Debug\netcoreapp3.1\Day018.csproj.CoreCompileInputs.cache
+D:\100daysofcode\Day018\obj\Debug\netcoreapp3.1\Day018.dll
+D:\100daysofcode\Day018\obj\Debug\netcoreapp3.1\Day018.pdb
+D:\100daysofcode\Day018\obj\Debug\netcoreapp3.1\Day018.genruntimeconfig.cache
